@@ -11,6 +11,7 @@ Since the client is interested in launching fundraising campaign for production 
 ### Analysis
 * Launch date analysis highlights the following trend for US theater fundraising campaigns:
 Most successful campaigns were launched in Q2 (month of May), followed by February and October. However, the October peak is ambiguous as high number of failed campaigns were also launched in the month of October.
+![Theater Outcomes vs. Launch Date](https://raw.githubusercontent.com/mbandyo/kickstarter-analysis/8b69d9dd69fffa5ae25a073c6bdd3c219b5a2fe2/Resources/Theater_Outcomes_vs_Launch.png)
 
 * Analysis of Outcomes Based on Goals:
 Most successful US theater campaign goals were in the range of $1000 - $5000 with an average of $2350 and median $3000. Median is higher than the mean implying data Is skewed to the left.
