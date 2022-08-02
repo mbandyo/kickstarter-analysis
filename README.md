@@ -15,6 +15,7 @@ Most successful campaigns were launched in Q2 (month of May), followed by Februa
 
 * Analysis of Outcomes Based on Goals:
 Most successful US theater campaign goals were in the range of $1000 - $5000 with an average of $2350 and median $3000. Median is higher than the mean implying data Is skewed to the left.
+![Theater Outcomes Based on Goals](https://github.com/mbandyo/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png?raw=true)
 
 ### Challenges and Difficulties Encountered
 It is not possible to ascertain if this is a comprehensive dataset i.e., we cannot know if there are datasets that are not included which might change the analysis and conclusions.
